@@ -1,0 +1,12 @@
+com\controleestoque\api_estoque\controller\ProdutoController.class
+com\controleestoque\api_estoque\model\Estoque.class
+com\controleestoque\api_estoque\repository\FornecedorRepository.class
+com\controleestoque\api_estoque\repository\ProdutoRepository.class
+com\controleestoque\api_estoque\repository\EstoqueRepository.class
+com\controleestoque\api_estoque\controller\FornecedorController.class
+com\controleestoque\api_estoque\model\Categoria.class
+com\controleestoque\api_estoque\controller\CategoriaController.class
+com\controleestoque\api_estoque\model\Produto.class
+com\controleestoque\api_estoque\ApiEstoqueApplication.class
+com\controleestoque\api_estoque\repository\CategoriaRepository.class
+com\controleestoque\api_estoque\model\Fornecedor.class
